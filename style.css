@@ -30,3 +30,25 @@
     height: 262px;
     margin-left: 250px;
 }
+.icon{
+    width: 60px;
+    height: 60px;
+    margin-top: 50px;
+   
+}
+.bg-color{
+  
+    padding: 10px 50px;
+    background-color: #f8fffb;
+    margin: 10px 50px 0px 0px;
+    cursor: pointer;
+}
+.special-bg{
+    box-shadow: 0px 20px 40px rgb(0, 0, 0, 0.1) ;
+    margin: 30px 50px 0px 0px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 50px;
+
+    
+}
