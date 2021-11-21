@@ -1,0 +1,32 @@
+.header{
+    background-color: #f0fff0;
+    padding: 0px 30px;
+}
+
+.logo{
+    margin-top: 10px;
+    width: 150px;
+    height: 50px;
+    padding-left: 30px;
+}
+.nav-link{
+    color: black;
+}
+.signin{
+    background-color: #21b573;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.learn{
+    color: tomato;
+}
+.heighlight{
+    color: #21b573 ;
+}
+.body-image{
+    width: 434px;
+    height: 262px;
+    margin-left: 250px;
+}
