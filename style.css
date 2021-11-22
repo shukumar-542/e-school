@@ -52,3 +52,26 @@
 
     
 }
+.seats{
+    padding-left: 100px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.card{
+   
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    background-color: #FFFFFF;
+}
+.rounded-circle{
+    height: 120px;
+    width: 120px;
+    margin-left: 200px;
+}
+.footer{
+    background-color: #282531;
+    color: white;
+    padding: 80px;
+}
